@@ -12,7 +12,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.navigation.compose.rememberNavController
-import com.example.mathongoassignment.presentation.home_dashboard.HomeDashBoardScreen
+import com.example.mathongoassignment.presentation.Navigation.HomeDashBoardScreen
 import com.example.mathongoassignment.ui.theme.MathongoAssignmentTheme
 
 class MainActivity : ComponentActivity() {
